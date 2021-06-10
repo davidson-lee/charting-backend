@@ -1,5 +1,5 @@
 aniso8601==6.0.0
-Django==2.2.10
+Django==2.2.24
 django-cors-headers==3.0.2
 django-environ==0.4.5
 graphene==2.1.6
